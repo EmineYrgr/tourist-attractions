@@ -1,0 +1,99 @@
+{
+    "İç Anadolu": {
+      "Ankara": [
+        {
+          "name": "Anıtkabir",
+          "description": "Türkiye'nin kurucusu Mustafa Kemal Atatürk'ün anıt mezarı.",
+          "location": "Ankara, Türkiye"
+        }
+      ],
+      "Konya": [
+        {
+          "name": "Mevlana Müzesi",
+          "description": "Mevlana Celaleddin Rumi'nin türbesi ve müzesi.",
+          "location": "Konya, Türkiye"
+        }
+      ]
+    },
+    "Ege": {
+      "İzmir": [
+        {
+          "name": "Efes Antik Kenti",
+          "description": "Roma İmparatorluğu döneminden kalma antik kent.",
+          "location": "Selçuk, İzmir"
+        }
+      ],
+      "Muğla": [
+        {
+          "name": "Bodrum Kalesi",
+          "description": "Bodrum'un tarihi kalesi ve su altı arkeoloji müzesi.",
+          "location": "Bodrum, Muğla"
+        }
+      ]
+    },
+    "Akdeniz": {
+      "Antalya": [
+        {
+          "name": "Düden Şelalesi",
+          "description": "Doğal güzelliğiyle bilinen Antalya'nın popüler şelalesi.",
+          "location": "Antalya, Türkiye"
+        }
+      ],
+      "Mersin": [
+        {
+          "name": "Tarsus Şelalesi",
+          "description": "Tarsus'taki doğal şelale ve çevresi.",
+          "location": "Tarsus, Mersin"
+        }
+      ]
+    },
+    "Karadeniz": {
+      "Trabzon": [
+        {
+          "name": "Uzungöl",
+          "description": "Trabzon'un doğal güzelliklerinden biri olan göl.",
+          "location": "Trabzon, Türkiye"
+        }
+      ],
+      "Rize": [
+        {
+          "name": "Ayder Yaylası",
+          "description": "Rize'deki popüler yüksek yayla.",
+          "location": "Rize, Türkiye"
+        }
+      ]
+    },
+    "Marmara": {
+      "İstanbul": [
+        {
+          "name": "Topkapı Sarayı",
+          "description": "Osmanlı İmparatorluğu'nun tarihî sarayı.",
+          "location": "İstanbul, Türkiye"
+        }
+      ],
+      "Bursa": [
+        {
+          "name": "Uludağ",
+          "description": "Kış sporları ve doğa yürüyüşleri için popüler bir dağ.",
+          "location": "Bursa, Türkiye"
+        }
+      ]
+    },
+    "Güneydoğu Anadolu": {
+      "Gaziantep": [
+        {
+          "name": "Zeugma Mozaik Müzesi",
+          "description": "Antik Zeugma kenti mozaikleri müzesi.",
+          "location": "Gaziantep, Türkiye"
+        }
+      ],
+      "Şanlıurfa": [
+        {
+          "name": "Göbeklitepe",
+          "description": "Dünyanın bilinen en eski tapınak kompleksi.",
+          "location": "Şanlıurfa, Türkiye"
+        }
+      ]
+    }
+  }
+  

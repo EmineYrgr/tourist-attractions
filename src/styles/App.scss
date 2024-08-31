@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f4f8;  // Açık gri-beyaz arka plan
+  }
+  
+  .App {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .App-header {
+    background-color: #4a90e2;  // Mavi başlık rengi
+    color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+  }
+  
+  h1 {
+    margin: 0;
+    font-size: 2.5em;
+    font-weight: 700;
+  }
+  
+  .region-menu, .city-menu {
+    margin: 20px 0;
+  }
+  

@@ -1,0 +1,29 @@
+.attraction-list {
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    
+    h2 {
+      margin-top: 0;
+      font-size: 2em;
+      color: #4a90e2;
+    }
+  
+    ul {
+      list-style-type: none;
+      padding: 0;
+  
+      li {
+        padding: 15px;
+        border-bottom: 1px solid #eee;
+        cursor: pointer;
+        transition: background-color 0.3s;
+  
+        &:hover {
+          background-color: #f4f4f4;
+        }
+      }
+    }
+  }
+  
